@@ -1,5 +1,6 @@
 # DDPM explained
 A guide to Denoising Diffusion Probabilistic Models (DDPM) with  careful derivation.
+See [my note](https://github.com/jojonki/DDPM-explained/blob/main/DDPM.pdf).
 
 <img width="2033" alt="Screen Shot 2022-05-02 at 22 37 05" src="https://user-images.githubusercontent.com/166852/166243528-da80d2ce-2cd8-4dad-9831-f992427299dc.png">
 
