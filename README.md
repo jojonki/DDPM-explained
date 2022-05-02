@@ -6,6 +6,7 @@ See [my note](https://github.com/jojonki/DDPM-explained/blob/main/DDPM.pdf).
 
 
 ## Awesome References
+- [Denoising Diffusion Probabilistic Models, Ho et al.](https://arxiv.org/abs/2006.11239)
 - [What are diffusion models?, Lil'Log by Lilian Weng](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/)
 - [【Deep Learning研修（発展）】データ生成・変換のための機械学習, 
 nnabla ディープラーニングチャンネル](https://www.youtube.com/watch?v=10ki2IS55Q4)
