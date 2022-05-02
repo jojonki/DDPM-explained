@@ -5,7 +5,7 @@ A guide to Denoising Diffusion Probabilistic Models (DDPM) with  careful derivat
 
 
 ## Awesome References
-- [What are diffusion models?, Lil'Log by Weng, Lilian](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/)
+- [What are diffusion models?, Lil'Log by Lilian Weng](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/)
 - [【Deep Learning研修（発展）】データ生成・変換のための機械学習, 
 nnabla ディープラーニングチャンネル](https://www.youtube.com/watch?v=10ki2IS55Q4)
 - [KL Divergence between two gaussians](https://github.com/jojonki/AutoEncoders/blob/master/kl_divergence_between_two_gaussians.pdf)
